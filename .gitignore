@@ -1,3 +1,7 @@
 grader/
 grader.js
 github-submissions/
+manual-test-files/interpreter.jar
+graded/
+reports/
+failed/
